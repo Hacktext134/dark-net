@@ -1,0 +1,166 @@
+--------- beginning of main
+09-16 18:52:28.434 11341 11385 I CameraManagerGlobal: Connecting to camera service
+09-16 18:52:28.439 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.439 11341 11385 W CameraManagerGlobal: [soar.cts] ignore the status update of camera: 20
+09-16 18:52:28.440 11341 11385 W CameraManagerGlobal: [soar.cts] ignore the status update of camera: 21
+09-16 18:52:28.440 11341 11385 W CameraManagerGlobal: [soar.cts] ignore the status update of camera: 22
+09-16 18:52:28.440 11341 11385 W CameraManagerGlobal: [soar.cts] ignore the status update of camera: 61
+09-16 18:52:28.441 11341 11360 W CameraManagerGlobal: ignore the torch status update of camera: 20
+09-16 18:52:28.441 11341 11360 W CameraManagerGlobal: ignore the torch status update of camera: 21
+09-16 18:52:28.441 11341 11360 W CameraManagerGlobal: ignore the torch status update of camera: 22
+09-16 18:52:28.441 11341 11360 W CameraManagerGlobal: ignore the torch status update of camera: 61
+09-16 18:52:28.452 11341 11341 D View    : com.camera.lmc84 initForcedUseForceDark: 1
+09-16 18:52:28.458 11341 11387 D CameraManager2: GotArray:0
+09-16 18:52:28.458 11341 11387 D CameraManager2: GotArray:1
+09-16 18:52:28.458 11341 11387 D CameraManager2: GotArray:2
+09-16 18:52:28.458 11341 11387 D CameraManager2: GotArray:3
+09-16 18:52:28.459 11341 11341 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+09-16 18:52:28.459 11341 11341 D DecorView: createDecorCaptionView windowingMode:1 mWindowMode 1 isFullscreen: true
+09-16 18:52:28.460 11341 11389 D CameraManager2: GotArray:0
+09-16 18:52:28.460 11341 11389 D CameraManager2: GotArray:1
+09-16 18:52:28.460 11341 11389 D CameraManager2: GotArray:2
+09-16 18:52:28.460 11341 11389 D CameraManager2: GotArray:3
+09-16 18:52:28.464 11341 11389 D CameraManager2: GotArray:0
+09-16 18:52:28.464 11341 11389 D CameraManager2: GotArray:1
+09-16 18:52:28.464 11341 11389 D CameraManager2: GotArray:2
+09-16 18:52:28.464 11341 11389 D CameraManager2: GotArray:3
+09-16 18:52:28.467 11341 11389 I CameraManager: zyk get pkg namecom.camera.lmc84
+09-16 18:52:28.468 11341 11389 I CameraManager: zyk get pkg namecom.camera.lmc84
+09-16 18:52:28.469 11341 11389 D CameraManager2: GotArray:0
+09-16 18:52:28.469 11341 11389 D CameraManager2: GotArray:1
+09-16 18:52:28.469 11341 11389 D CameraManager2: GotArray:2
+09-16 18:52:28.469 11341 11389 D CameraManager2: GotArray:3
+09-16 18:52:28.473 11341 11389 D CameraManager2: GotArray:0
+09-16 18:52:28.473 11341 11389 D CameraManager2: GotArray:1
+09-16 18:52:28.473 11341 11389 D CameraManager2: GotArray:2
+09-16 18:52:28.473 11341 11389 D CameraManager2: GotArray:3
+09-16 18:52:28.476 11341 11389 D StreamConfigurationMap: setFlag Flag:0
+09-16 18:52:28.478 11341 11373 W AudioCapabilities: Unsupported mime audio/x-adpcm-ms
+09-16 18:52:28.478 11341 11373 W AudioCapabilities: Unsupported mime audio/x-adpcm-dvi-ima
+09-16 18:52:28.478 11341 11373 W AudioCapabilities: Unsupported mime audio/alac
+09-16 18:52:28.478 11341 11373 W AudioCapabilities: Unsupported mime audio/ape
+09-16 18:52:28.480 11341 11373 W VideoCapabilities: Unrecognized profile/level 1/32 for video/mp4v-es
+09-16 18:52:28.480 11341 11373 W VideoCapabilities: Unrecognized profile/level 32768/2 for video/mp4v-es
+09-16 18:52:28.480 11341 11373 W VideoCapabilities: Unrecognized profile/level 32768/64 for video/mp4v-es
+09-16 18:52:28.481 11341 11389 W CAM_A   : Picture size setting is not set. Selecting fallback: 3840x2160
+09-16 18:52:28.481 11341 11373 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+09-16 18:52:28.482 11341 11373 W VideoCapabilities: Unsupported mime video/xvid
+09-16 18:52:28.486 11341 11373 W VideoCapabilities: Unrecognized profile/level 1/32 for video/mp4v-es
+09-16 18:52:28.486 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.489 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.490 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.496 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.497 11341 11341 I chatty  : uid=10644(com.camera.lmc84) identical 1 line
+09-16 18:52:28.498 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.500 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.503 11341 11397 I CameraManager: zyk get pkg namecom.camera.lmc84
+09-16 18:52:28.505 11341 11397 E libc    : Access denied finding property "persist.vendor.camera.privapp.list"
+09-16 18:52:28.507 11341 11389 E libc    : Access denied finding property "ro.vendor.df.effect.conflict"
+09-16 18:52:28.508 11341 11389 E libc    : Access denied finding property "ro.vendor.knock.type"
+09-16 18:52:28.513 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.516 11341 11373 D CameraManager2: GotArray:0
+09-16 18:52:28.516 11341 11373 D CameraManager2: GotArray:1
+09-16 18:52:28.516 11341 11373 D CameraManager2: GotArray:2
+09-16 18:52:28.516 11341 11373 D CameraManager2: GotArray:3
+09-16 18:52:28.520 11341 11357 E CameraManagerGlobal: Camera 61 is not available. Ignore physical camera status change
+09-16 18:52:28.522 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.525 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.527 11341 11373 W CAM_A   : Build number (V12.5.6.0.RJCMIXM) is not a number. Ignoring version check for b/149569689.
+09-16 18:52:28.531 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.533 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.534 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.536 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.537 11341 11389 I BufferQueueConsumer: [](id:2c4d00000000,api:0,p:0,c:11341) connect(): controlledByApp=true
+09-16 18:52:28.538 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.538 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.539 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.540 11341 11389 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@78935f4
+09-16 18:52:28.541 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.544 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.547 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.549 11341 11379 W CameraManagerGlobal: ignore the torch status update of camera: 20
+09-16 18:52:28.549 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.550 11341 11379 W CameraManagerGlobal: ignore the torch status update of camera: 22
+09-16 18:52:28.551 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.551 11341 11379 W CameraManagerGlobal: ignore the torch status update of camera: 21
+09-16 18:52:28.552 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.553 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.554 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.556 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.560 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.561 11341 11379 W CameraManagerGlobal: ignore the torch status update of camera: 61
+09-16 18:52:28.562 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.565 11341 11389 I BufferQueueConsumer: [](id:2c4d00000001,api:0,p:0,c:11341) connect(): controlledByApp=true
+09-16 18:52:28.566 11341 11389 I BufferQueueConsumer: [](id:2c4d00000002,api:0,p:0,c:11341) connect(): controlledByApp=true
+09-16 18:52:28.574 11341 11397 E CameraDevice-JV-0: zyf_checkInputConfiguration_return
+09-16 18:52:28.596 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.599 11341 11341 I chatty  : uid=10644(com.camera.lmc84) identical 1 line
+09-16 18:52:28.602 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.605 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.609 11341 11341 I DeezNuts: MSG: SLIDER 1 FOCUS: 1.0E-4
+09-16 18:52:28.609 11341 11341 I ProReC  : setprogres0
+09-16 18:52:28.610 11341 11341 I DeezNuts: MSG: SLIDER 0 IDX: 0
+09-16 18:52:28.610 11341 11341 I ProReC  : setprogres_iso0
+09-16 18:52:28.611 11341 11341 I za.defcomk.prorec.cust2.RotSeek: setprogres_iso0
+09-16 18:52:28.613 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.614 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.614 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.618 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.621 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.621 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.622 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.624 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.625 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.628 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.633 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.637 11341 11397 I BufferQueueProducer: [ImageReader-1280x720f23m52-11341-0](id:2c4d00000000,api:4,p:925,c:11341) connect(): api=4 producerControlledByApp=false
+09-16 18:52:28.637 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.638 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.638 11341 11397 I BufferQueueProducer: [ImageReader-3840x2160f23m22-11341-1](id:2c4d00000001,api:4,p:925,c:11341) connect(): api=4 producerControlledByApp=false
+09-16 18:52:28.640 11341 11397 I BufferQueueProducer: [ImageReader-4208x3120f20m30-11341-2](id:2c4d00000002,api:4,p:925,c:11341) connect(): api=4 producerControlledByApp=false
+09-16 18:52:28.641 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.646 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.650 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.657 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.660 11341 11341 I chatty  : uid=10644(com.camera.lmc84) identical 1 line
+09-16 18:52:28.661 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.693 11341 11373 E ion     : ioctl c0044901 failed with code -1: Invalid argument
+09-16 18:52:28.693 11341 11373 D libjpeg-alpha-oal: SWIP_INIT
+09-16 18:52:28.693 11341 11373 D libjpeg-alpha-oal: MTXXXX_JPEG_SWIP_PROTECTION value=1
+09-16 18:52:28.693 11341 11373 D libjpeg-alpha-oal: Address(orig)     = 0x7ad9df9258 0xedc
+09-16 18:52:28.693 11341 11373 D libjpeg-alpha-oal: Address(modified) = 0x7ad9df837c
+09-16 18:52:28.693 11341 11373 D libjpeg-alpha-oal: Intermidiate 7ad9df8088, 6ff3
+09-16 18:52:28.697 11341 11341 D ViewRootImpl[CameraActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+09-16 18:52:28.699 11341 11341 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+09-16 18:52:28.706 11341 11341 I InputTransport: Create ARC handle: 0x7a34d78ac0
+09-16 18:52:28.707 11341 11341 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@3baf844, this = DecorView@6d89d2d[CameraActivity]
+--------- beginning of system
+09-16 18:52:28.709 11341 11341 W Looper  : PerfMonitor looperActivity : package=com.camera.lmc84/com.google.android.apps.camera.legacy.app.activity.main.CameraActivity time=0ms latency=357ms running=0ms  procState=2 ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] } historyMsgCount=5 (msgIndex=1 wall=398ms seq=3 running=253ms runnable=13ms io=11ms late=227ms h=android.app.ActivityThread$H w=159)
+09-16 18:52:28.721 11341 11387 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.727 11341 11387 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.734 11341 11387 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.757 11341 11341 D DecorView[]: getWindowModeFromSystem  windowmode is 1
+09-16 18:52:28.766 11341 11387 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.767 11341 11387 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.805 11341 11374 W ProtoDataStoreFlagStore: Unable to retrieve flag snapshot for com.google.android.libraries.consentverifier#com.camera.lmc84, using defaults.
+09-16 18:52:28.810 11341 11375 E ion     : ioctl c0044901 failed with code -1: Invalid argument
+09-16 18:52:28.841 11341 11341 W CAM_A   : Was already registered as ThermalStatusListener on AppStart
+09-16 18:52:28.847 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.848 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.856 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.857 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.858 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.858 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.860 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.860 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.862 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.864 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.868 11341 11341 I chatty  : uid=10644(com.camera.lmc84) identical 4 lines
+09-16 18:52:28.872 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.873 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.874 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.880 11341 11341 E libc    : Access denied finding property "ro.vendor.pref_scale_resolution"
+09-16 18:52:28.906 11341 11341 D CameraManager2: GotArray:0
+09-16 18:52:28.906 11341 11341 D CameraManager2: GotArray:1
+09-16 18:52:28.906 11341 11341 D CameraManager2: GotArray:2
+09-16 18:52:28.906 11341 11341 D CameraManager2: GotArray:3
